@@ -1,3 +1,3 @@
 # 2D-bin-packing-problem
 
-A simple 2D bin packing problem modeling using Gurobi solver.
+2D bin packing problem model using Gurobi solver.
